@@ -72,6 +72,7 @@ The economic environment continues to be the most impactful driver in the e-scoo
 **Proposed Solution:** Introduce incentives and reward systems for riders to enhance customer loyalty and differentiate from competitors.
 
 ---
+![image](https://github.com/user-attachments/assets/fb12f929-60b5-4f5a-931b-838befa19252)
 
 This project aims to analyze and propose strategies that could be beneficial for **SCOOT & CO** as it navigates the e-scooter sharing market in New York City. Through SWOT analysis and industry assessment, the project provides a foundational understanding of how companies in this space can grow, tackle challenges, and remain competitive.
 
